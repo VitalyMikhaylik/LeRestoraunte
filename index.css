@@ -1,0 +1,149 @@
+.meat{
+    background-color: rgba(0, 0, 0, 0.678);
+    background-image: url("myaso.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin-top: -25px;
+    background-blend-mode: multiply;
+}
+
+.vegan2{
+    background-color: rgba(0, 0, 0, 0.678);
+    background-image: url("ragu.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin-top: -25px;
+    background-blend-mode: multiply;
+}
+
+.kuhnya{
+    background-color: rgba(0, 0, 0, 0.678);
+    background-image: url("kuhnya.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin-top: -25px;
+    background-blend-mode: multiply;
+}
+
+.ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+
+li{
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    background-color: black;
+    list-style-type: none;
+}
+
+.h1{
+    color: white;
+    text-align: center;
+    padding-top: 225px;
+}
+
+button{
+    margin-left: 550px;
+    background-color: #fad54f;
+    color: black;
+    border: 0px;
+    padding: 7px 20px 7px 20px;
+}
+
+.vegan{
+    background: rgba(0, 0, 0, 0.548);
+    background-image: url("vege.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 550px;
+}
+
+.daily{
+    color: orange;
+    text-align: center;
+}
+
+.ul3{
+    padding-left: 700px;
+    padding-bottom: 200px;
+    margin-top: -85px;
+}
+
+.spaghetti{
+    padding-left: 20px;
+}
+
+.div{
+
+}
+
+li:hover{
+    color: orange;
+}
+
+.button{
+    margin-left: 525px;
+}
+
+.list{
+    background-color: black;
+    margin-top: -85px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+.foodmenu{
+    padding-top: 100px;
+}
+
+.tomatoes{
+    display: flex;
+    flex-direction: row;
+    padding-top: 130px;
+    padding-bottom: 130px;
+    padding-left: 150px;
+}
+
+.button2{
+    margin-left: 0px;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+
+.footer2{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+
+.input{
+    display: flex;
+    flex-direction: row;
+}
+
+input{
+    margin-left: 100px;
+    margin-right: 20px;
+}
+
+.hs{
+    color: white;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
